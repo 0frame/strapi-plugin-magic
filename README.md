@@ -1,5 +1,7 @@
 # strapi-plugin-magic
 
+> Note: This repo is a copy of the the strapi-plugin-magic package from Alex The Entreprenerd, 'forked' since his repo was only available via his strapi template.
+
 Magic Plugin Integration for Strapi.
 
 Use Magic.Links for your Strapi Users!
